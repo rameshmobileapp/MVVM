@@ -1,4 +1,4 @@
-package com.ramesh.mvvm;
+package com.ramesh.mvvm.view;
 
 import android.annotation.SuppressLint;
 
@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.ramesh.mvvm.R;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
